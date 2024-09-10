@@ -109,5 +109,3 @@ def get_emails_to_delete(mail, filepath):
 
 1. **IMAP Error**: If you receive an error related to IMAP commands, ensure that IMAP access is enabled in your Gmail settings.
 2. **Authentication Issues**: If you're unable to log in, ensure you're using the correct credentials. If you're using 2-factor authentication, ensure that you're using the app-specific password.
-
-## License
